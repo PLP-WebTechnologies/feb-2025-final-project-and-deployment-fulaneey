@@ -25,20 +25,22 @@ Ensure semantic correctness.
 Good luck and happy coding! 🚀💻
 
 # Training Kids in the Ways of the Lord
-# website link
-laneeysfinale.netlify.app
+
 This website is dedicated to helping children grow spiritually in the Lord. It now features a fun, warm design with interactive elements and a joyful color palette.
 
 ## Pages
-- **Home**: Warm gradient background, animated header, and image slider.
-- **About**: Mission & methods showcased in card-style sections.
-- **Contact**: Interactive form with validation.
+
+* **Home**: Warm gradient background, animated header, and image slider.
+* **About**: Mission & methods showcased in card-style sections.
+* **Contact**: Interactive form with validation.
 
 ## Deployment
-Deployed on [Your chosen platform], link here.
+
+Deployed on [Netlify](https://laneeysfinale.netlify.app), link here.
 
 ## Technologies
-- HTML5
-- CSS3
-- JavaScript
-- Google Fonts (Poppins)
+
+* HTML5
+* CSS3
+* JavaScript
+* Google Fonts (Poppins)
