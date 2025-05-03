@@ -25,7 +25,8 @@ Ensure semantic correctness.
 Good luck and happy coding! 🚀💻
 
 # Training Kids in the Ways of the Lord
-# laneeysfinale.netlify.app
+# website link
+laneeysfinale.netlify.app
 This website is dedicated to helping children grow spiritually in the Lord. It now features a fun, warm design with interactive elements and a joyful color palette.
 
 ## Pages
